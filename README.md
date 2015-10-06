@@ -16,7 +16,7 @@ The following example game is won by the first player, X:
 
 I'm sure you're really excited about building the next Facebook or Instagram, but like most things in life, we have to crawl before we walk, and walk before we run, and build Tic Tac Toe before we build large and complex applications.
 
-Tic Tac Toe is a simple, mostly universal ruleset that flexes the basic concepts in programming, like data structures for storing the board, conditional logic for knowing whose turn it is or if someone has won, and more.
+Tic Tac Toe is a simple ruleset that flexes the basic concepts in programming, like data structures for storing the board, conditional logic for knowing whose turn it is or if someone has won.
 
 Because of the simple game rules, Tic Tac Toe is very easy to decompose into discrete, small, functionality, that we can then put together to create a complete game. This processes of decomposition and synthesis, breaking something down and putting it back together, is absolutely essential to programming.
 
@@ -44,12 +44,6 @@ The general procedure for Tic Tac Toe is as follows:
 6. Change the player turn and let the next player make a move.
 7. Repeat until the game is over.
 
-We'll break all these requirements down into simple procedures. You'll be surprised at how quickly you'll learn to do something this complex.
-
-## How We'll Build It
-
-As your progress through this course, we'll learn the skills required to build our tic tac toe game. In fact, we'll break down the procedures and requirements of a game of tic tac toe into smaller assignments that we'll complete as we learn the necessary skills. For example, we'll learn about data structures and practice building and manipulating them over the course of a few readings and assignments. Then, we'll cap it off with an assignment to use what we've learned to build one essential segment of our tic tac toe game. 
-
-So, our game will be build in smaller units as we move through the course. By the time we put it all together in a functioning game, we'll be tic tac toe (and programming) pros!
+As your progress through this course, we'll break all these requirements down into simple, cumulative labs throughout the track. You'll be surprised at how quickly you'll learn to do something this complex.
 
 Let's get started learning enough Ruby to build our Tic Tac Toe.
