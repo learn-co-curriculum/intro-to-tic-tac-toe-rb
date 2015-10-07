@@ -18,7 +18,7 @@ I'm sure you're really excited about building the next Facebook or Instagram, bu
 
 Tic Tac Toe is a simple ruleset that flexes the basic concepts in programming, like data structures for storing the board, conditional logic for knowing whose turn it is or if someone has won.
 
-Because of the simple game rules, Tic Tac Toe is very easy to decompose into discrete, small, functionality, that we can then put together to create a complete game. This processes of decomposition and synthesis, breaking something down and putting it back together, is absolutely essential to programming.
+Because of the simple game rules, Tic Tac Toe is very easy to decompose into discrete, small, functionality, that we can then put together to create a complete game. This process of decomposition and synthesis, breaking something down and putting it back together, is absolutely essential to programming.
 
 The simple interface Tic Tac Toe requires, a basic 3 x 3 grid, is also easy to port to multiple interfaces. We can build a command line version of Tic Tac Toe or a web-based version. We can even build a SMS version of Tic Tac Toe if we wanted.
 
