@@ -40,10 +40,10 @@ The general procedure for Tic Tac Toe is as follows:
 2. Welcome the players.
 3. Get the user's move in the form of some input.
 4. Make sure their move is valid.
-5. Check to see if the game has been won or draw.
+5. Check to see if the game has been won or came to a draw.
 6. Change the player turn and let the next player make a move.
 7. Repeat until the game is over.
 
 As you progress through this course, we'll break all these requirements down into simple, cumulative labs throughout the track. You'll be surprised at how quickly you'll learn to do something this complex.
 
-Let's get started learning enough Ruby to build our Tic Tac Toe.
+Let's get started learning enough Ruby to build Tic Tac Toe.
