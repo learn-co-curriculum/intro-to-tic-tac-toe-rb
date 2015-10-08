@@ -44,6 +44,6 @@ The general procedure for Tic Tac Toe is as follows:
 6. Change the player turn and let the next player make a move.
 7. Repeat until the game is over.
 
-As your progress through this course, we'll break all these requirements down into simple, cumulative labs throughout the track. You'll be surprised at how quickly you'll learn to do something this complex.
+As you progress through this course, we'll break all these requirements down into simple, cumulative labs throughout the track. You'll be surprised at how quickly you'll learn to do something this complex.
 
 Let's get started learning enough Ruby to build our Tic Tac Toe.
