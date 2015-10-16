@@ -28,7 +28,7 @@ The simple interface Tic Tac Toe requires, a basic 3 x 3 grid, is also easy to p
 
 Beyond being able to move easily between interfaces, we can also move between programming styles, building Tic Tac Toe in a procedural or functional style first, then moving that to an Object Oriented version, and finally, adding our Tic Tac Toe model to a Sinatra Web Application.
 
-Once you've built your basic 2-player version of Tic Tac Toe, you are free to extend it by creating a 1 player version and trying to program an unbeatable AI.
+Once you've built your basic 2-player version of Tic Tac Toe, you are free to extend it by creating a 1-player version and trying to program an unbeatable AI.
 
 <iframe width="753" height="380" src="https://www.youtube.com/embed/F7qOV8xonfY?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
