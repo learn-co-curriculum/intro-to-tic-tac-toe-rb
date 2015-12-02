@@ -47,3 +47,5 @@ The general procedure for Tic Tac Toe is as follows:
 As you progress through this course, we'll break all these requirements down into simple, cumulative labs throughout the track. You'll be surprised at how quickly you'll learn to do something this complex.
 
 Let's get started learning enough Ruby to build Tic Tac Toe.
+
+<a href='https://learn.co/lessons/intro-to-tic-tac-toe-rb' data-visibility='hidden'>View this lesson on Learn.co</a>
