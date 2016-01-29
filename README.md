@@ -48,4 +48,4 @@ As you progress through this course, we'll break all these requirements down int
 
 Let's get started learning enough Ruby to build Tic Tac Toe.
 
-<a href='https://learn.co/lessons/intro-to-tic-tac-toe-rb' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-tic-tac-toe-rb' title='Intro To Tic Tac Toe in Ruby'>Intro To Tic Tac Toe in Ruby</a> on Learn.co and start learning to code for free.</p>
