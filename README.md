@@ -6,7 +6,7 @@
 
 ## Introduction
 
-We're going to be learning how to build [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) in Ruby. If you're unfamiliar with the game, it is played on a 3 by 3 grid of available cells. The goal of the game is to get three of your tokens, X or O, in a row, including diagonals.
+In this lesson, we're going to learn how to build [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) in Ruby. Just in case you're unfamiliar with the game, let's discuss the rules first. Tic Tac Toe is played on a 3 x 3 grid of available cells, and the goal of the game is to place three of your tokens (X or O) on the grid in a row, including diagonals.
 
 The following example game is won by the first player, X:
 
@@ -14,11 +14,11 @@ The following example game is won by the first player, X:
 
 ## Why build Tic Tac Toe?
 
-I'm sure you're really excited about building the next Facebook or Instagram, but like most things in life, we have to crawl before we walk, and walk before we run, and build Tic Tac Toe before we build large and complex applications.
+I'm sure you're really excited about building the next Facebook or Instagram, but like most things in life, we have to crawl before we walk, and walk before we run---and build Tic Tac Toe before we build large and complex applications.
 
-Tic Tac Toe is a simple ruleset that flexes the basic concepts in programming, like data structures for storing the board, conditional logic for knowing whose turn it is or if someone has won.
+Tic Tac Toe is a simple game that flexes the basic concepts in programming. For example, a Tic Tac Toe program requires data structures for storing the board and conditional logic for knowing whose turn it is or if someone has won. 
 
-Because of the simple game rules, Tic Tac Toe is very easy to decompose into discrete, small, functionality, that we can then put together to create a complete game. This process of decomposition and synthesis, breaking something down and putting it back together, is absolutely essential to programming.
+Tic Tac Toe's simple rules are very easy to decompose into small, discrete functions that we can put together to create a complete game. This process of *decomposition* and *synthesis*, breaking something down and putting it back together, is absolutely essential to programming.
 
 The simple interface Tic Tac Toe requires, a basic 3 x 3 grid, is also easy to port to multiple interfaces. We can build a command line version of Tic Tac Toe or a web-based version. We can even build a SMS version of Tic Tac Toe if we wanted.
 
@@ -49,3 +49,5 @@ As you progress through this course, we'll break all these requirements down int
 Let's get started learning enough Ruby to build Tic Tac Toe.
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-tic-tac-toe-rb' title='Intro To Tic Tac Toe in Ruby'>Intro To Tic Tac Toe in Ruby</a> on Learn.co and start learning to code for free.</p>
+
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/intro-to-tic-tac-toe-rb'>Intro to Tic Tac Toe</a> on Learn.co and start learning to code for free.</p>
