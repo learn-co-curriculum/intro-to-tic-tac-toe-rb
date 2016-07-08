@@ -6,7 +6,7 @@
 
 ## Introduction
 
-In this lesson, we're going to learn how to build [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) in Ruby. Just in case you're unfamiliar with the game, let's discuss the rules first. Tic Tac Toe is played on a 3 x 3 grid of available cells, and the goal of the game is to place three of your tokens (X or O) on the grid in a row, including diagonals.
+In this course, we're going to learn how to build [Tic Tac Toe](https://en.wikipedia.org/wiki/Tic-tac-toe) in Ruby. Just in case you're unfamiliar with the game, let's discuss the rules first. Tic Tac Toe is played on a 3 x 3 grid of available cells, and the goal of the game is to place three of your tokens (X or O) on the grid in a row, including diagonals.
 
 The following example game is won by the first player, X:
 
