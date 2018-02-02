@@ -3,7 +3,6 @@
 ## Objectives
 
 1. Learn about building Tic Tac Toe in Ruby.
-2. Watcth this Hi everyoe?!!?!!
 
 ## Introduction
 
