@@ -34,7 +34,7 @@ Once you've built your basic 2-player version of Tic Tac Toe, you are free to ex
 
 ## Pseudo-Code for Tic Tac Toe
 
-The general procedure for Tic Tac Toe is as follows:
+Setting off for a journey usually requires planning -- for instance, it is good to know what destination you want to reach and what stops you will make along the way. We do the same in programming. Before jumping into writing code, we *pseudo-code*: we write steps we will take and goals we want to achieve. Let's look into what the general procedure for Tic Tac Toe looks like:
 
 1. Create a structure to store and represent the state of the board.
 2. Welcome the players.
