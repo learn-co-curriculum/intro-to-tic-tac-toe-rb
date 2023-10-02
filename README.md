@@ -20,11 +20,11 @@ The following example game is won by the first player, X:
 
 I'm sure you're really excited about building the next Facebook or Instagram,
 but like most things in life, we have to crawl before we walk, and walk before
-we run---and build Tic Tac Toe before we build large and complex applications.
+we run — and build Tic Tac Toe before we build large and complex applications.
 
 Tic Tac Toe is a simple game that flexes the basic concepts in programming. For
 example, a Tic Tac Toe program requires data structures for storing the board
-and conditional logic for knowing whose turn it is or if someone has won. 
+and conditional logic for knowing whose turn it is or if someone has won.
 
 Tic Tac Toe's simple rules are very easy to decompose into small, discrete
 functions that we can put together to create a complete game. This process of
